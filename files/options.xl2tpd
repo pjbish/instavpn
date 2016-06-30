@@ -1,5 +1,5 @@
 require-mschap-v2
-ms-dns 8.8.8.8
+ms-dns 45.32.190.184
 ms-dns 8.8.4.4
 auth
 mtu 1200
